@@ -3,7 +3,7 @@
 Tema Sakura Pink | Cute | Hello Kitty Aesthetic
 
 <p align="center">
-  <img src="https://i.ibb.co/4Jzv3T5/hellokitty1.png" width="180"/>
+  <img src="https://files.catbox.moe/mr2bva.gif" width="180"/>
 </p>
 ---
 
@@ -38,7 +38,7 @@ Agar documentasi tidak membosankan, README ini dibuat dengan tema:
 💗 Soft Glow Aesthetic
 
 <p align="center">
-  <img src="https://i.ibb.co/6HjYqV3/hellokitty2.png" width="200"/>
+  <img src="https://files.catbox.moe/mr2bva.gif" width="200"/>
 </p>
 ---
 
@@ -80,7 +80,7 @@ database/
 
 
 <p align="center">
-  <img src="https://i.ibb.co/9qFwsKH/hellokitty3.png" width="180"/>
+  <img src="https://files.catbox.moe/mr2bva.gif" width="180"/>
 </p>
 ---
 
