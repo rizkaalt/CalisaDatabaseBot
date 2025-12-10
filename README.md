@@ -102,5 +102,5 @@ Kalau kamu ingin menambah ilustrasi imut, icon baru, atau style lain — silakan
 Folder database juga bisa cute kok, bukan cuma kaku 🎀✨
 
 <p align="center">
-  <img src="https://i.ibb.co/BGdWmKP/hellokitty4.png" width="200"/>
+  <img src="https://files.catbox.moe/mr2bva.gif" width="200"/>
 </p>
