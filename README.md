@@ -1,6 +1,5 @@
 🌸💕 README – Database Folder 💕🌸
 
-Tema Sakura Pink | Cute | Hello Kitty Aesthetic
 
 <p align="center">
   <img src="https://files.catbox.moe/mr2bva.gif" width="180"/>
@@ -29,13 +28,6 @@ readme.md	File yang sedang kamu lihat ✨
 
 ---
 
-🌸🎀 Vibes & Aesthetic
-
-Agar documentasi tidak membosankan, README ini dibuat dengan tema:
-💗 Sakura Pink
-💗 Modern Soft Gradient
-💗 Hello Kitty Cute Icons
-💗 Soft Glow Aesthetic
 
 <p align="center">
   <img src="https://files.catbox.moe/mr2bva.gif" width="200"/>
